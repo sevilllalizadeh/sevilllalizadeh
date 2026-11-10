@@ -39,7 +39,7 @@ Coming soon! I'm working on practical Data Science projects and will share them 
 
 ### 📫 Connect With Me
 
-- GitHub: [My GitHub Profile](https://github.com/)
+- GitHub: [My GitHub Profile](https://github.com/sevilllalizadeh)
 
 ---
 
