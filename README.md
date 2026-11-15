@@ -3,6 +3,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Sevil%20Alizade&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%7C%20Data%20Analytics&descAlignY=58&descSize=18" width="100%" />
 
+<br/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Exploring+Data+Science;Python+%7C+SQL+%7C+Machine+Learning;Turning+Data+into+Insights" />
 
 </div>
@@ -98,6 +100,8 @@
 ### 💜 Thanks for visiting my profile!
 
 <img src="https://komarev.com/ghpvc/?username=sevilllalizadeh&style=for-the-badge&color=764ba2&label=PROFILE+VIEWS" />
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" width="100%" />
 
