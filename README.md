@@ -1,62 +1,58 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10172A,50:312E81,100:6D28D9&height=210&section=header&text=SEVIL%20ALIZADE&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20SCIENCE%20%7C%20DATA%20ANALYTICS&descSize=15&descAlignY=58&animation=fadeIn" width="100%"/>
+# Hi, I'm Sevil! 👋
 
-# Hello, World! 👋
+### Aspiring Data Analyst | Data Science Enthusiast
 
-### Welcome to my GitHub profile!
+I enjoy exploring data, discovering patterns, and turning raw data into meaningful insights.
 
-*Exploring data, discovering patterns, building intelligent solutions.*
+<br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github)](https://github.com/sevilllalizadeh)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=9B7EDE&center=true&vCenter=true&width=500&lines=Python+%7C+SQL+%7C+Data+Analytics;Exploring+the+World+of+Data;Learning+Something+New+Every+Day" />
 
 </div>
 
 ---
 
-## 👩🏻‍💻 About Me
+## 👩‍💻 About Me
 
-Hi! I'm Sevil, an aspiring Data Scientist and Data Analyst.
-
-I'm passionate about exploring data, finding meaningful insights, and understanding how data can solve real-world problems.
-
-- 🐍 Learning Python and SQL
+- 🔍 Interested in Data Science and Data Analytics
+- 🐍 Learning Python for data analysis
 - 📊 Exploring Exploratory Data Analysis (EDA)
-- 🌐 Practicing Web Scraping and Data Collection
-- 🧮 Studying Mathematics and Statistics
-- 🤖 Exploring Machine Learning
-- 🧠 Learning Deep Learning
+- 🗄️ Working with SQL and databases
+- 🤖 Learning Machine Learning and Deep Learning
+- 🌱 Continuously improving my analytical skills
 
 ---
 
-## 💻 Languages & Tools
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,postgres,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/BeautifulSoup-4B8B3B?style=for-the-badge" />
 
 </div>
 
 ---
 
-## 📚 What I'm Learning
+## 📚 Currently Learning
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-Data_Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![SQL](https://img.shields.io/badge/SQL-Database_Queries-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-![EDA](https://img.shields.io/badge/EDA-Data_Exploration-6D28D9?style=for-the-badge)
-
-![Web Scraping](https://img.shields.io/badge/Web_Scraping-Data_Collection-312E81?style=for-the-badge)
-
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-AI-7C3AED?style=for-the-badge)
-
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-Neural_Networks-5B21B6?style=for-the-badge)
-
-</div>
+- Python for Data Science
+- SQL & Database Management
+- Data Cleaning and EDA
+- Web Scraping
+- Mathematics for Data Science
+- Machine Learning
+- Deep Learning
 
 ---
 
@@ -64,26 +60,24 @@ I'm passionate about exploring data, finding meaningful insights, and understand
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sevilllalizadeh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sevilllalizadeh&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevilllalizadeh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" />
-
-<img src="https://streak-stats.demolab.com?user=sevilllalizadeh&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevilllalizadeh&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🎯 My Goal
+## 🚀 My Projects
 
-To grow as a Data Scientist, strengthen my analytical thinking, and turn theoretical knowledge into practical projects.
+*More data science projects coming soon!*
 
 ---
 
 <div align="center">
 
-### ✨ Learning Today. Building Tomorrow.
+### 💜 Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10172A,50:312E81,100:6D28D9&height=110&section=footer" width="100%"/>
+<img src="https://komarev.com/ghpvc/?username=sevilllalizadeh&color=9B7EDE&style=flat-square&label=PROFILE+VIEWS" />
 
 </div>
